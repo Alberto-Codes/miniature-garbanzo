@@ -37,6 +37,18 @@ To work on this project using CodeSpaces, you will need to initiate a CodeSpace 
 1. **Navigate to the Pull Request**: From the main page of the repository, click on the "Pull requests" tab. Find the active pull request and click on it.
 2. **Open CodeSpaces**: In the pull request page, click on the "Code" button, then select "Open with CodeSpaces". This will initiate a new CodeSpace with the code from the pull request.
 
+## Running the Application in CodeSpaces
+
+Once you have opened the project in CodeSpaces, you can run the `src/main.py` script. Here's how to do it:
+
+1. **Open the Terminal**: In VS Code, click on `Terminal` in the top menu, then `New Terminal`. This will open a terminal at the bottom of the VS Code window.
+
+2. **Run the Script**: In the terminal, type the following command and press Enter:
+
+    ```bash
+    python src/main.py
+    ```
+
 ## Useful GitHub Resources
 Here are some helpful resources to get you started with GitHub and CodeSpaces:
 1. **GitHub Learning Lab**: An interactive guide to get you started with using GitHub. [GitHub Learning Lab](https://lab.github.com/)
